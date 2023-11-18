@@ -1,0 +1,14 @@
+C:\Users\AMD\source\repos\snake\snake\obj\Debug\net6.0\snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\source\repos\snake\snake\obj\Debug\net6.0\snake.AssemblyInfoInputs.cache
+C:\Users\AMD\source\repos\snake\snake\obj\Debug\net6.0\snake.AssemblyInfo.cs
+C:\Users\AMD\source\repos\snake\snake\obj\Debug\net6.0\snake.csproj.CoreCompileInputs.cache
+C:\Users\AMD\source\repos\snake\snake\bin\Debug\net6.0\snake.exe
+C:\Users\AMD\source\repos\snake\snake\bin\Debug\net6.0\snake.deps.json
+C:\Users\AMD\source\repos\snake\snake\bin\Debug\net6.0\snake.runtimeconfig.json
+C:\Users\AMD\source\repos\snake\snake\bin\Debug\net6.0\snake.dll
+C:\Users\AMD\source\repos\snake\snake\bin\Debug\net6.0\snake.pdb
+C:\Users\AMD\source\repos\snake\snake\obj\Debug\net6.0\snake.dll
+C:\Users\AMD\source\repos\snake\snake\obj\Debug\net6.0\refint\snake.dll
+C:\Users\AMD\source\repos\snake\snake\obj\Debug\net6.0\snake.pdb
+C:\Users\AMD\source\repos\snake\snake\obj\Debug\net6.0\snake.genruntimeconfig.cache
+C:\Users\AMD\source\repos\snake\snake\obj\Debug\net6.0\ref\snake.dll
